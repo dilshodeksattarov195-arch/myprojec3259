@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clusterfalidate",
+        "uuid": 13316274,
+        "checksum": "yu45ma"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
